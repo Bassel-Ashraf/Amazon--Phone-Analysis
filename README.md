@@ -48,3 +48,23 @@ Dashboard Development Completed.
 Project Category: Data Analytics
 Data Source: Amazon Mobile Phone Products
 Author: Bassel Ashraf
+
+
+
+## Dashboard Preview
+
+### 1. Overview
+![Dashboard Overview](Screenshot%202026-11-1.png)
+
+### 2. Pricing & Discounts
+![Pricing & Discounts](Screenshot%202026-11-2.png)
+
+### 3. Product Performance
+![Product Performance](Screenshot%202026-11-3.png)
+
+### 4. Recommendations
+![Recommendations](Screenshot%202026-11-4.png)
+
+### 5. Thank You
+![Thank You](Screenshot%202026-11-5.png)
+
